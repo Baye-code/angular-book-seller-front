@@ -1,0 +1,8 @@
+{
+    "name": "baye-book-seller-ui",
+    "buildpacks": [
+        {
+            "url": "heroku/nodejs"
+        }
+    ]
+}
